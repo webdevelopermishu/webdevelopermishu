@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h5>Blog Frontend see here..<a href="https://webdevelopermishu.github.io/Blog-Site--front/">Click </a></h5>
 <h5>Portfolio Frontend see here..<a href="https://webdevelopermishu.github.io/Portfolio--front/">Click </a></h5>
-<div class="row"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" alt style="width: 20%; max-width: 600px; height: auto; margin: auto; display: block;"></div>
+<div class="row">
+  <img src="https://i.postimg.cc/PrmR1H6s/32.jpg" alt style="width: 20%; max-width: 600px; height: auto; margin: auto; display: block;">
+  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+</div>
