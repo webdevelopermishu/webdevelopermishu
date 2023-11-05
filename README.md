@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
 <h5>Portfolio Frontend see here..</h5><a href="https://webdevelopermishu.github.io/Portfolio--front/">Click </a>
 <div class="row">
   <div class="col-lg-6"
-    <p align="right">
+    <p align="center">
     <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo">a Framework of PHP</a>
   </p>
   </div>
   <div class="col-lg-6"
-    <p align="left"><a href="https://webdevelopermishu.github.io/Portfolio--front/" target="_blank"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" width="100" alt="MiSHU Logo"></a></p>
+    <p align="center"><a href="https://webdevelopermishu.github.io/Portfolio--front/" target="_blank"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" width="100" alt="MiSHU Logo"></a></p>
   </div>
 </div>
