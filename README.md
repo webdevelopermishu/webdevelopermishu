@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 <h5>Portfolio Frontend see here..<a href="https://webdevelopermishu.github.io/Portfolio--front/">Click </a></h5>
 <div class="row">
   <div class="col-lg-6"
-<!--   <img src="https://i.postimg.cc/PrmR1H6s/32.jpg" alt style="width: 0%; max-width: 600px; height: auto; margin: auto; display: block;"> -->
-    <p align="left"><a href="https://webdevelopermishu.github.io/Portfolio--front/" target="_blank"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" width="400" alt="MiSHU Logo"></a></p>
     <p align="right"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+  </div>
+  <div class="col-lg-6"
+    <p align="left"><a href="https://webdevelopermishu.github.io/Portfolio--front/" target="_blank"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" width="400" alt="MiSHU Logo"></a></p>
   </div>
 </div>
