@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <h5>Blog Frontend see here..<a href="https://webdevelopermishu.github.io/Blog-Site--front/">Click </a></h5>
 <h5>Portfolio Frontend see here..<a href="https://webdevelopermishu.github.io/Portfolio--front/">Click </a></h5>
-<img src="https://i.postimg.cc/PrmR1H6s/32.jpg" alt style="width: 20%; max-width: 600px; height: auto; margin: auto; display: block;">
+<div class="row"><img src="https://i.postimg.cc/PrmR1H6s/32.jpg" alt style="width: 20%; max-width: 600px; height: auto; margin: auto; display: block;"></div>
