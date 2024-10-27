@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 👨‍💻 I am a dynamic and results-driven Engineer from the Computer Science and Engineering (CSE) department, passionate about crafting innovative solutions in the world of software development.
 
-💼 Currently serving as a Software Engineer at AttoExa Solutions, where I contribute to the team's success through my expertise in PHP and Laravel Development. My journey in the tech industry began with a rewarding internship at Creative IT Institute, where I honed my skills and gained valuable hands-on experience.
+💼 Currently serving as a Software Engineer at Sovtvence, where I contribute to the team's success through my expertise in PHP and Laravel Development. My journey in the tech industry began with a rewarding internship at Creative IT Institute, where I honed my skills and gained valuable hands-on experience.
 
 🛠️ Proficient in PHP & Laravel, I specialize in creating robust and scalable web applications. My commitment to staying on the cutting edge of technology allows me to deliver high-quality solutions that meet and exceed client expectations.
 
